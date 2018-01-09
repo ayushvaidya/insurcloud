@@ -1,0 +1,31 @@
+// Place all the styles related to the Solutions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@font-face {
+  font-family: "Chronicle Display";
+  src: url(/assets/ChronicleDisp-Black.otf) format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Chronicle Display";
+  src: url(/assets/ChronicleDisp-BlackItalic.otf) format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Chronicle Display";
+  src: url(/assets/ChronicleDisp-Light.otf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Chronicle Display";
+  src: url(/assets/ChronicleDisp-LightItalic.otf) format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
